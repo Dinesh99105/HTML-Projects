@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>FORM</title>
+</head>
+<body>
+    <h1 id="h1">HTML FORM</h1>
+    <div>
+        <form>
+            First Name: <input type='text' name='firstname' placeholder="Dinesh"> <br> <br>   
+            Last Name: <input type='text' name='lastname'    placeholder="Kumar"> <br> <br>
+            <div>
+            Male<input type="radio" name="GENDER">
+            Female<input type="radio" name="GENDER">
+            </div>
+            <br>
+
+            Date of Birth <input type="date" name="DOB"><br> <br>
+            
+            Address <input type="text" name="Address"> <br> <br>
+
+            Contact <input type="text" maxlength="10"> <br> <br>
+
+            Email Address <input type="email" > <br> <br>
+
+            <input type="submit" name="submit" id="nothing">
+
+        </form>
+    </div>
+</body>
+</body>
+</html>
