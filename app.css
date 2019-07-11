@@ -1,0 +1,13 @@
+h1{
+	color: green;
+	border: 2px solid rgb(255,100,80);
+}
+h4{
+	background:rgb(50,50,40);
+}
+
+body{
+	background: url(https://i.ytimg.com/vi/JMzfgPHLTxY/maxresdefault.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
