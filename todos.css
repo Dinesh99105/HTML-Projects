@@ -1,0 +1,7 @@
+#special{
+	border: 2px red solid;
+	background: yellow;
+}
+.highlight{
+	text-decoration: line-through;
+}
